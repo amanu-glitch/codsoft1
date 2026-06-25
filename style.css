@@ -1087,8 +1087,13 @@ display:flex;
 justify-content:center;
 align-items:center;
 
-font-weight:700;
+font-weight:800;
 font-size:1.1rem;
+
+color:#001a22;     /* Dark text */
+
+text-align:center;
+padding:10px;
 
 background:
 
